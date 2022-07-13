@@ -1,7 +1,6 @@
 spack:
   specs:
-  - gcc@12
-  - gcc@11
+  - gcc@11.3.0
   view: false
   packages:
     gcc:
