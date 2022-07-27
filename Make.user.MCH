@@ -9,7 +9,7 @@ SOFTWARE_STACK_PROJECT := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 SPACK := /dev/shm/kraushm/spack/bin/spack
 
 # The Spack installation root.
-STORE := /mch-pe2207-dev0
+STORE := /user-environment
 
 # The temp folder to build in
 TEMP_DIR := /dev/shm/kraushm/store.mch-pe2207-dev0
