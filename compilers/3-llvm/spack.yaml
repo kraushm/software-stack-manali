@@ -1,5 +1,5 @@
 spack:
   specs:
-  - nvhpc@22.5%gcc@11.3.0~blas~lapack~mpi
+  - nvhpc@22.5
   view: false
   'compilers:': []
