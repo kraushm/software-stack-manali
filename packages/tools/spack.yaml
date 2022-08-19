@@ -11,7 +11,7 @@ spack:
   - meson
   - ninja
   - perl
-  - python+optimizations
+  - python@3.7 +optimizations
   - vim +python +lua +perl +cscope features=huge
   - emacs
   - libtree

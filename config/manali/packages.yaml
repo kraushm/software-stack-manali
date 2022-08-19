@@ -1,4 +1,8 @@
 packages:
+  libfabric:
+    buildable: false
+    externals:
+    - spec: libfabric@1.15.0.0
   slurm:
     buildable: false
     externals:
